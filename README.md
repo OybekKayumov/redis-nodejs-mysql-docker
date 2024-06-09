@@ -1,9 +1,9 @@
-# Redis, Node.js, MySQL, Docker crud App. 
+# Redis, Node.js, MySQL, Docker crud App.
 
-## _Redis in-memory data structure store, is widely used for caching, real-time analytics, and as a message broker._ 
+## _Redis in-memory data structure store, is widely used for caching, real-time analytics, and as a message broker._
 
 - covering installation, configuration, and fundamental commands. 
-- integrate Redis with Node.js. 
+- integrate Redis with Node.js.
 - working with JSON.
 - docker.
 - implement Redis in applications, optimize performance.
