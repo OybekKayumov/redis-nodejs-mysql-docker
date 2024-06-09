@@ -1,21 +1,26 @@
-# Redis: Guide (2024). 
+# Redis, Node.js, MySQL, Docker crud App. 
 
-> Redis, an open-source, in-memory data structure store, is widely used for caching, real-time analytics, and as a message broker. 
+## _Redis in-memory data structure store, is widely used for caching, real-time analytics, and as a message broker._ 
 
 - covering installation, configuration, and fundamental commands. 
 - integrate Redis with Node.js. 
 - working with JSON.
-
+- docker.
 - implement Redis in applications, optimize performance.
 
-##Learn skills:
+## ✨ Learn skills: ✨
+```sh
+> Working with JSON
+
+> Storing data in memory
+
+> Work with Data Structures
+
+> Integrate with multiple programming languages
 ```
---- Working with JSON
 
---- Storing data in memory
+## License
 
---- Work with Data Structures
+MIT
 
---- Integrate with multiple programming languages
-```
-2024 06
+**2024 06**
